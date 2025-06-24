@@ -1,15 +1,25 @@
-# Heading 1        → <h1>Heading 1</h1>
-## Heading 2       → <h2>Heading 2</h2>
-### Heading 3      → <h3>Heading 3</h3>
-#### Heading 4     → <h4>Heading 4</h4>
-##### Heading 5    → <h5>Heading 5</h5>
-###### Heading 6   → <h6>Heading 6</h6>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
 
-*This is italic text*
-_This is also italic text_
-
-***This is bold and italic***
-___This is also bold and italic___
-
-> This is a block quote
->> This is a nested block quote
+ 
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to My Website Portfolio</h1>
+    <p>Explore my projects, skills, and experience.</p>
+  </div>
+</body>
+</html>
