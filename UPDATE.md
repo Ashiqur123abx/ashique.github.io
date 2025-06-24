@@ -15,6 +15,8 @@
 
  
   </style>
+  <p>Hello! My name is <strong>Ashiqur Rahman Ashique</strong>. I am currently pursuing my undergraduate studies in <strong>Electrical and Electronic Engineering (EEE)</strong>.</p>
+
 </head>
 <body>
   <div class="container">
